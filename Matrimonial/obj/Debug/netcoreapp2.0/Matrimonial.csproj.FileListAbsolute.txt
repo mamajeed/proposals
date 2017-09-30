@@ -1,0 +1,11 @@
+D:\Matrimoney\Matrimonial\Matrimonial\bin\Debug\netcoreapp2.0\Matrimonial.deps.json
+D:\Matrimoney\Matrimonial\Matrimonial\bin\Debug\netcoreapp2.0\Matrimonial.runtimeconfig.json
+D:\Matrimoney\Matrimonial\Matrimonial\bin\Debug\netcoreapp2.0\Matrimonial.runtimeconfig.dev.json
+D:\Matrimoney\Matrimonial\Matrimonial\bin\Debug\netcoreapp2.0\Matrimonial.dll
+D:\Matrimoney\Matrimonial\Matrimonial\bin\Debug\netcoreapp2.0\Matrimonial.pdb
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.csproj.CoreCompileInputs.cache
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.AssemblyInfoInputs.cache
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.AssemblyInfo.cs
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.dll
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.pdb
+D:\Matrimoney\Matrimonial\Matrimonial\obj\Debug\netcoreapp2.0\Matrimonial.csprojResolveAssemblyReference.cache
